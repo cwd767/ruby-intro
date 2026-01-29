@@ -37,3 +37,7 @@ end
 for zebra in tacos
   puts "#{zebra} tacos"
 end
+
+# Tonights loop lesson is important especially when using AI because it is non-deterministic - you need to make sure it is accurate, secure, etc.
+# The challenge with AI is ensuring that AI isn't breaking things and hallucinating. So what we want to do is to wrap our AI code in 
+# deterministic language - loops are critical for that.
