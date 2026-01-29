@@ -33,5 +33,5 @@ timeline = [
 
 profile["timeline"] = timeline
 puts profile
-puts "Right now!"
-puts profile["timeline"][0]["status"]
+puts "Right now?" + " " + profile["timeline"][0]["status"]
+
